@@ -148,3 +148,8 @@ vector<string> split(const string &str) {
     return tokens;
 }
 
+git init
+git add .
+git commit -m "Questions Done"
+git branch -M main
+git push -u origin main
