@@ -30,15 +30,11 @@ The MountBlue Job Challenge assesses core Data Structures, Algorithms, and logic
 ## 📁 Repository Structure
 
 ```text
-├── Arrays/
-│   ├── Plus_Minus.ext
-│   ├── Mini_Max_Sum.ext
-│   └── Sales_by_Match.ext
-├── Strings/
+├── .vscode/
+├── build/
 │   ├── CamelCase.ext
 │   ├── Strong_Password.ext
 │   └── Caesar_Cipher.ext
-├── Implementation/
 │   ├── Counting_Valleys.ext
 │   ├── Electronics_Shop.ext
 │   └── Drawing_Book.ext
