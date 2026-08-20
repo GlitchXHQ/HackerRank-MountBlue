@@ -84,6 +84,7 @@ string rtrim(const string &);
 
 void separateNumbers(string s) {
     int n = s.size();
+    
     for (int len = 1; len <= n/2; len++) {
         string first = s.substr(0, len);
         long long num = stoll(first);
